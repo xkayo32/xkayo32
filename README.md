@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kayo-fernandes-961bb676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayo-fernandes-961bb676" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kayofernandesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kayo-fernandes-961bb676" height="30" width="40" /></a>
 <a href="https://fb.com/kayo.fernandes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kayo.fernandes1" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ferk_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ferk_18" height="30" width="40" /></a>
 <a href="https://discord.gg/xKayo26#0295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xKayo26#0295" height="30" width="40" /></a>
